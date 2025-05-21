@@ -9,5 +9,5 @@ void loop() {
   digitalWrite(LED_PIN, HIGH);
   delay(100);
   digitalWrite(LED_PIN, LOW);
-  delay(2500); //Added this comment in main.cpp of the Github repo
+  delay(2000); // changed from 2500ms to 2000ms from main.cpp in local repo
 }
